@@ -1,6 +1,4 @@
-#!/usr/bin/python3
 # David Prater
-# 9/13/2015
 # Program to determine the outcome of an election
 
 import sys
